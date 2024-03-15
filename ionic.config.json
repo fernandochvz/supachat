@@ -1,0 +1,7 @@
+{
+  "name": "SupaAuth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
